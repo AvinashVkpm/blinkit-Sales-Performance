@@ -2,7 +2,7 @@
 
 The Blinkit Sales Performance Dashboard provides a detailed summary of sales, outlet performance, and product insights. It focuses on total sales, average sales, product types, outlet categories, and customer ratings to help analyze business performance.
 
-#💰 Key Performance Indicators (KPIs)
+## 💰 Key Performance Indicators (KPIs)
 
 Total Sales: $1.20M
 
@@ -12,7 +12,7 @@ Total Number of Items Sold: 8,523
 
 Average Customer Rating: 3.9 / 5
 
-#🏬 Outlet Insights
+## 🏬 Outlet Insights
 
 Outlet Establishment Trend (2012–2022)
 
@@ -48,7 +48,7 @@ Supermarket Type 3	$130.71K	935	$140	3.91	54.80
 
 👉 Supermarket Type 1 dominates with the highest sales and visibility.
 
-#🥫 Product (Item Type) Analysis
+## 🥫 Product (Item Type) Analysis
 
 Top-performing categories:
 
@@ -64,7 +64,7 @@ Lower-performing categories:
 
 Seafood, Breakfast, and Starchy Foods (less than $0.03M each)
 
-#🧈 Fat Content Analysis
+## 🧈 Fat Content Analysis
 
 Regular items: ~6K sold
 
@@ -72,7 +72,7 @@ Low-fat items: ~3K sold
 
 Regular fat products dominate sales across all outlet tiers.
 
-#📊 Overall Summary
+## 📊 Overall Summary
 
 Blinkit achieved $1.2 million in total sales with steady performance across years.
 
