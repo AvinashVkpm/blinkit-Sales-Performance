@@ -1,4 +1,4 @@
-#🟢 Dashboard Overview
+# 🟢 Dashboard Overview
 
 The Blinkit Sales Performance Dashboard provides a detailed summary of sales, outlet performance, and product insights. It focuses on total sales, average sales, product types, outlet categories, and customer ratings to help analyze business performance.
 
